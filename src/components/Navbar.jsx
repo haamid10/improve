@@ -26,9 +26,7 @@ const Navbar = () => {
         <li className="p-4 border-b border-gray-600">Contact</li>
         <li className="p-4">About</li>
        </ul>
-       {/* <div className="">
-        <AiOutlineMenu size={20}/>
-       </div> */}
+       
        </div>
 
        {/* <AiOutlineClone size={20}/> */}
